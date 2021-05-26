@@ -709,84 +709,14 @@ a {
   background-color: #ffffff;
 }
 .cid-s48udlf8KU .mbr-section-title {
-  text-align: left;
+  text-align: center;
 }
 .cid-s48udlf8KU .mbr-section-subtitle {
-  text-align: left;
-}
-.cid-sxWmNZePEE {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-sxWmNZePEE img,
-.cid-sxWmNZePEE .item-img {
-  width: 100%;
-}
-.cid-sxWmNZePEE .item:focus,
-.cid-sxWmNZePEE span:focus {
-  outline: none;
-}
-.cid-sxWmNZePEE .item {
-  cursor: pointer;
-  margin-bottom: 2rem;
-}
-.cid-sxWmNZePEE .item-wrapper {
-  position: relative;
-  border-radius: 4px;
-  background: #fafafa;
-  height: 100%;
-  display: flex;
-  flex-flow: column nowrap;
-}
-@media (min-width: 992px) {
-  .cid-sxWmNZePEE .item-wrapper .item-content {
-    padding: 2rem 2rem 0;
-  }
-  .cid-sxWmNZePEE .item-wrapper .item-footer {
-    padding: 0 2rem 2rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-sxWmNZePEE .item-wrapper .item-content {
-    padding: 1rem 1rem 0;
-  }
-  .cid-sxWmNZePEE .item-wrapper .item-footer {
-    padding: 0 1rem 1rem;
-  }
-}
-.cid-sxWmNZePEE .mbr-section-btn {
-  margin-top: auto !important;
-}
-.cid-sxWmNZePEE .mbr-section-title {
-  color: #232323;
-}
-.cid-sxWmNZePEE .mbr-text,
-.cid-sxWmNZePEE .mbr-section-btn {
-  text-align: left;
-}
-.cid-sxWmNZePEE .item-title {
-  text-align: left;
-}
-.cid-sxWmNZePEE .item-subtitle {
-  text-align: left;
-}
-.cid-s48vaXqeL6 {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
-}
-.cid-s48vaXqeL6 .mbr-section-title {
-  text-align: left;
-}
-.cid-s48vaXqeL6 .mbr-section-subtitle {
-  text-align: left;
+  text-align: center;
 }
 .cid-s48OLK6784 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-s48OLK6784 nav.navbar {
   position: fixed;
@@ -879,7 +809,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.2);
 }
 .cid-s48OLK6784 .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
