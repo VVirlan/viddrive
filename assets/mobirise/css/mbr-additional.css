@@ -134,8 +134,8 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #ff6666 !important;
-  border-color: #ff6666 !important;
+  background-color: #e91a1a !important;
+  border-color: #e91a1a !important;
   color: #ffffff !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
 }
@@ -144,15 +144,15 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff !important;
-  background-color: #ff0f0f !important;
-  border-color: #ff0f0f !important;
+  background-color: #9d0f0f !important;
+  border-color: #9d0f0f !important;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #ff0f0f !important;
-  border-color: #ff0f0f !important;
+  background-color: #9d0f0f !important;
+  border-color: #9d0f0f !important;
 }
 .btn-info,
 .btn-info:active {
@@ -311,13 +311,13 @@ body {
 .btn-secondary-outline:active {
   background-color: transparent !important;
   border-color: transparent;
-  color: #ff6666;
+  color: #e91a1a;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
-  color: #ff0f0f !important;
+  color: #9d0f0f !important;
   background-color: transparent!important;
   border-color: transparent!important;
   box-shadow: none!important;
@@ -325,8 +325,8 @@ body {
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #ff6666 !important;
-  border-color: #ff6666 !important;
+  background-color: #e91a1a !important;
+  border-color: #e91a1a !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -458,7 +458,7 @@ body {
   color: #6592e6 !important;
 }
 .text-secondary {
-  color: #ff6666 !important;
+  color: #e91a1a !important;
 }
 .text-success {
   color: #40b0bf !important;
@@ -486,7 +486,7 @@ a.text-primary.active {
 a.text-secondary:hover,
 a.text-secondary:focus,
 a.text-secondary.active {
-  color: #ff0000 !important;
+  color: #8f0e0e !important;
 }
 a.text-success:hover,
 a.text-success:focus,
@@ -645,8 +645,8 @@ blockquote {
 }
 .xdsoft_datetimepicker .xdsoft_calendar td:hover,
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div:hover {
-  color: #000000 !important;
-  background: #ff6666 !important;
+  color: #ffffff !important;
+  background: #e91a1a !important;
   box-shadow: none !important;
 }
 .lazy-bg {
@@ -683,16 +683,17 @@ a {
   transition: color 0.6s;
 }
 .cid-s48MCQYojq {
-  padding-top: 2rem;
-  padding-bottom: 10rem;
-  background-image: url("../../../assets/images/bus2-851x315.png");
+  padding-top: 7rem;
+  padding-bottom: 9rem;
+  background-image: url("../../../assets/images/2019-mercedes-benz-sprinter-1920x1080.jpeg");
 }
 .cid-s48MCQYojq .mbr-section-title {
   text-align: center;
+  color: #353535;
 }
 .cid-s48MCQYojq .mbr-text,
 .cid-s48MCQYojq .mbr-section-btn {
-  color: #232323;
+  color: #353535;
   text-align: center;
 }
 @media (max-width: 991px) {
@@ -779,28 +780,6 @@ a {
   text-align: left;
 }
 .cid-s48vaXqeL6 .mbr-section-subtitle {
-  text-align: left;
-}
-.cid-s48vnjULo4 {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
-}
-.cid-s48vnjULo4 .mbr-section-title {
-  text-align: left;
-}
-.cid-s48vnjULo4 .mbr-section-subtitle {
-  text-align: left;
-}
-.cid-s48vrXhP0J {
-  padding-top: 2rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-s48vrXhP0J .mbr-section-title {
-  text-align: left;
-}
-.cid-s48vrXhP0J .mbr-section-subtitle {
   text-align: left;
 }
 .cid-s48OLK6784 {
@@ -1148,7 +1127,7 @@ a {
 .cid-s48P1Icc8J {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: #232323;
+  background-color: #65c6d4;
 }
 .cid-s48P1Icc8J .row-links {
   width: 100%;
